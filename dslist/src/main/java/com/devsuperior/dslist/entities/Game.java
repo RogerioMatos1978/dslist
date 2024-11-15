@@ -31,7 +31,7 @@ public class Game {
 	@Column(columnDefinition = "TEXT")
 	private String longDescription;
 	
-	
+	//Teste git
 	
 	public Game() {
 		
